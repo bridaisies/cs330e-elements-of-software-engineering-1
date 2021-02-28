@@ -1,3 +1,2 @@
-# cs330e-collatz
+# project 1: cs330e collatz
 
-cs330e-collatz
