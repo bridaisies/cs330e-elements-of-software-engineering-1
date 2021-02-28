@@ -1,0 +1,101 @@
+commit 2f00801913fd77c4f0b960185b4ce153de9d43fd
+Author: Brionna Huynh <brionnahuynh@gmail.com>
+Date:   Fri Oct 9 21:00:29 2020 -0500
+
+    updated collatz.log
+
+commit a620b29f4137da6e133a518aa88ea326389627ca
+Author: Brionna Huynh <brionnahuynh@gmail.com>
+Date:   Thu Oct 8 16:49:00 2020 -0500
+
+    update
+
+commit 83a3789257559306786e68a9f13a20161b86ba63
+Author: Brionna Huynh <brionnahuynh@gmail.com>
+Date:   Thu Oct 8 14:55:03 2020 -0500
+
+    phase 5 finalization file update
+
+commit 9c5b7ec05e48b6b1726531133bf3349b497d7d77
+Author: Brionna Huynh <brionnahuynh@gmail.com>
+Date:   Thu Oct 8 12:02:13 2020 -0500
+
+    fix error in code and update
+
+commit de997d589611917b68275ef1a70016bc521e7ee0
+Author: Brionna Huynh <brionnahuynh@gmail.com>
+Date:   Thu Oct 8 11:10:59 2020 -0500
+
+    uncommented lines in makefile
+
+commit cd79b1c992d08dddab5f1e75c997918466da1aac
+Author: Brionna Huynh <brionnahuynh@gmail.com>
+Date:   Thu Oct 8 10:30:51 2020 -0500
+
+    created empty next line
+
+commit 0c4313deebc9f0a95b8a08580cec2085ff60dc8f
+Author: Brionna Huynh <brionnahuynh@gmail.com>
+Date:   Thu Oct 8 10:30:13 2020 -0500
+
+    updated
+
+commit c286f6ee426ba92b13163fb9a9f4e6840716f10f
+Author: Brionna Huynh <brionnahuynh@gmail.com>
+Date:   Wed Oct 7 20:51:26 2020 -0500
+
+    created 100-200 lines of acceptance tests
+
+commit dd0e5857d6a9440651c4f12740dd3c40ba1304e0
+Author: Brionna Huynh <brionnahuynh@gmail.com>
+Date:   Wed Oct 7 20:51:00 2020 -0500
+
+    create 100-200 lines of acceptance tests
+
+commit e6b77a742fdcea8b43cd2fbcec65bae12bb98bd4
+Author: Brionna Huynh <brionnahuynh@gmail.com>
+Date:   Wed Oct 7 20:50:22 2020 -0500
+
+    update phase 2
+
+commit 03d87a3700ecb8d263a29356b8a0854053ca0a84
+Author: Brionna Huynh <brionnahuynh@gmail.com>
+Date:   Wed Oct 7 20:49:58 2020 -0500
+
+    rewrote html file
+
+commit 44f3ae4183395d89c6fd6a6b1a734a3466cd69d1
+Author: Brionna Huynh <brionnahuynh@gmail.com>
+Date:   Wed Oct 7 19:38:39 2020 -0500
+
+    implemented simplest possible solution in collatz_eval()
+
+commit 5cb71a8c18424b4786ff73fe8c5a5912792da64d
+Author: Brionna Huynh <brionnahuynh@gmail.com>
+Date:   Wed Oct 7 12:02:11 2020 -0500
+
+    updated TestCollatz.py
+
+commit 35bc6926b4e6cdbadfb2cf89d59cc3b79a239174
+Author: Brionna Huynh <brionnahuynh@gmail.com>
+Date:   Wed Oct 7 11:46:38 2020 -0500
+
+    add new files
+
+commit 45a3cbe33c6dfe7a910e989af9ed781ec5abbe33
+Author: Fares Fraij <fares@utexas.edu>
+Date:   Sat Jun 6 10:35:45 2020 -0500
+
+    second commit
+
+commit 0cd09a5c9fb1a857dce11686104ab052d42b269b
+Author: Fares Fraij <fares@utexas.edu>
+Date:   Fri May 29 11:11:36 2020 -0500
+
+    first commit
+
+commit 3390fe29f60392d73e1810e7b55331c613e4a1c5
+Author: Fares Fraij <fares@utexas.edu>
+Date:   Fri May 29 16:02:55 2020 +0000
+
+    Initial commit
