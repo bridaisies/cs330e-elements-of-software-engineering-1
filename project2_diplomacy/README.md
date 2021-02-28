@@ -1,3 +1,1 @@
-# cs330e-diplomacy
-
-bridaisies
+# project 2: cs330e diplomacy
