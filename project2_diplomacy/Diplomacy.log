@@ -1,0 +1,287 @@
+commit c87b0310b7336c093ea96a158c3001d010f1c174
+Author: Jennifer Nguyen <jennifernguyen@Jennifers-MBP-2.attlocal.net>
+Date:   Thu Nov 19 17:24:06 2020 -0600
+
+    Removed hashtags
+
+commit e22bcf8940d969ba4dbec158751694f8209426d2
+Author: Jennifer Nguyen <jennifernguyen@Jennifers-MBP-2.attlocal.net>
+Date:   Thu Nov 19 17:07:07 2020 -0600
+
+    Added by # until merge
+
+commit 61b470391795534e50e30cbe249d4352252b0b5c
+Author: Jennifer Nguyen <jennifernguyen@Jennifers-MBP-2.attlocal.net>
+Date:   Thu Nov 19 17:00:44 2020 -0600
+
+    Trying to fix pipeline error
+
+commit d02353da8ce8525e01541d8be589b5726d67e9ef
+Author: Jennifer Nguyen <jennifernguyen@Jennifers-MBP-2.attlocal.net>
+Date:   Thu Nov 19 16:49:37 2020 -0600
+
+    Added missing separator
+
+commit d09e9009cc1cb623d3d3b9b4ee3df14e08398221
+Author: Jennifer Nguyen <jennifernguyen@Jennifers-MBP-2.attlocal.net>
+Date:   Thu Nov 19 16:48:09 2020 -0600
+
+    Added missing separator
+
+commit a767d2d018d9194b692aba8ec3053578afcfcc9c
+Author: Jennifer Nguyen <jennifernguyen@Jennifers-MBP-2.attlocal.net>
+Date:   Thu Nov 19 16:45:30 2020 -0600
+
+    Added missing separator
+
+commit 8075317fe19552e86905d2526d489c34a9fd7eeb
+Author: Jennifer Nguyen <jennifernguyen@Jennifers-MBP-2.attlocal.net>
+Date:   Thu Nov 19 16:42:33 2020 -0600
+
+    Removed # from makefile
+
+commit 571858a7df4017c4cd7eb514854392f48f39166d
+Author: Jennifer Nguyen <jennifernguyen@Jennifers-MBP-2.attlocal.net>
+Date:   Thu Nov 19 16:17:32 2020 -0600
+
+    Changed variable name
+
+commit 3ad1b83f9987b83f8680b8fd678bdeb7b86c1251
+Author: Jennifer Nguyen <jennifernguyen@Jennifers-MBP-2.attlocal.net>
+Date:   Thu Nov 19 16:08:47 2020 -0600
+
+    Fixed spelling error
+
+commit 084e0a938df8aa94a192719a0aaba75be4e8d8e8
+Author: Jennifer Nguyen <jennifernguyen@Jennifers-MBP-2.attlocal.net>
+Date:   Thu Nov 19 16:06:49 2020 -0600
+
+    Changed code
+
+commit 6a42d347775c6e09bf54da2a0ed87e7980d78c3d
+Author: Jennifer Nguyen <jennifernguyen@Jennifers-MBP-2.attlocal.net>
+Date:   Thu Nov 19 15:59:15 2020 -0600
+
+    Fixed variables in file
+
+commit 9f25e189fcec3bb121682bdabc6b3c58d8da2359
+Author: Jennifer Nguyen <jennifernguyen@Jennifers-MBP-2.attlocal.net>
+Date:   Thu Nov 19 15:54:34 2020 -0600
+
+    Added more to acceptance tests to fixed pipeline error
+
+commit 1a2e8403964d64653f3ca23af833e8abac27dfad
+Author: Jennifer Nguyen <jennifernguyen@Jennifers-MBP-2.attlocal.net>
+Date:   Thu Nov 19 15:49:56 2020 -0600
+
+    Added more to acceptance test
+
+commit e8b54c6273802e791a7358cc4e2055ef00e96378
+Author: Jennifer Nguyen <jennifernguyen@Jennifers-MBP-2.attlocal.net>
+Date:   Thu Nov 19 15:46:04 2020 -0600
+
+    Pipeline error fix attempt
+
+commit ba76f4a64a86f9fbd89d28024f0571de5b06bb1d
+Author: Jennifer Nguyen <jennifernguyen@Jennifers-MBP-2.attlocal.net>
+Date:   Thu Nov 19 15:42:20 2020 -0600
+
+    Updated file
+
+commit 2877dc19034785cc3b8a7cdc7b22ec68be376380
+Author: Jennifer Nguyen <jennifernguyen@Jennifers-MBP-2.attlocal.net>
+Date:   Thu Nov 19 15:39:31 2020 -0600
+
+    Altered code in attempt to fix pipeline error
+
+commit 4b3dc787f3bae93df7ee1bcea4dd9d405570977b
+Author: Jennifer Nguyen <jennifernguyen@Jennifers-MBP-2.attlocal.net>
+Date:   Thu Nov 19 15:35:21 2020 -0600
+
+    Fixed code in order to fix pipeline
+
+commit 3ecc8caed8e2af81d0a1f3d8b10c23159f9d43e0
+Author: Jennifer Nguyen <jennifernguyen@Jennifers-MBP-2.attlocal.net>
+Date:   Thu Nov 19 15:29:54 2020 -0600
+
+    Add all acceptance tests
+
+commit ec35589bb8ac032290ab6ab026712375042c1551
+Author: Jennifer Nguyen <jennifernguyen@Jennifers-MBP-2.attlocal.net>
+Date:   Thu Nov 19 15:27:51 2020 -0600
+
+    Pipeline fix attempt
+
+commit 84f1d122de054b06250e8f5ff2d7d1e70e65e3a9
+Author: Brionna Huynh <brionnahuynh@gmail.com>
+Date:   Thu Nov 19 21:14:26 2020 +0000
+
+    Delete RunDiplomacy5.out
+
+commit 0b0316fc9d29c385c721a4c6a45489430a908ef8
+Author: Brionna Huynh <brionnahuynh@gmail.com>
+Date:   Thu Nov 19 21:14:22 2020 +0000
+
+    Delete RunDiplomacy5.in
+
+commit 06fc12e86278789da848b385fb9916d6e97cb898
+Author: Brionna Huynh <brionnahuynh@gmail.com>
+Date:   Thu Nov 19 21:14:18 2020 +0000
+
+    Delete RunDiplomacy4.out
+
+commit 30d7deaf602d6696701549442cd0ae9e3c62a860
+Author: Brionna Huynh <brionnahuynh@gmail.com>
+Date:   Thu Nov 19 21:14:13 2020 +0000
+
+    Delete RunDiplomacy4.in
+
+commit 4e32baebee439a762d2176dbfa544013b01a5714
+Author: Brionna Huynh <brionnahuynh@gmail.com>
+Date:   Thu Nov 19 21:14:08 2020 +0000
+
+    Delete RunDiplomacy3.out
+
+commit ab4b3247a9013b4e32521bb4b93d417441b0062a
+Author: Brionna Huynh <brionnahuynh@gmail.com>
+Date:   Thu Nov 19 21:14:03 2020 +0000
+
+    Delete RunDiplomacy3.in
+
+commit 1334bd9f65c1d766765820418cb257a5a5f13c79
+Author: Brionna Huynh <brionnahuynh@gmail.com>
+Date:   Thu Nov 19 21:13:58 2020 +0000
+
+    Delete RunDiplomacy2.out
+
+commit 10663dfa74826a6c5de7f6910ec78793b781e4b7
+Author: Brionna Huynh <brionnahuynh@gmail.com>
+Date:   Thu Nov 19 21:13:53 2020 +0000
+
+    Delete RunDiplomacy2.in
+
+commit 60790c9d07b6912308415a91dd7507d5467d02f9
+Author: Brionna Huynh <brionnahuynh@gmail.com>
+Date:   Thu Nov 19 21:13:49 2020 +0000
+
+    Delete RunDiplomacy1.out
+
+commit 98621740ebc79188ec3562cd5aa73958d0529cfe
+Author: Brionna Huynh <brionnahuynh@gmail.com>
+Date:   Thu Nov 19 21:13:44 2020 +0000
+
+    Delete RunDiplomacy1.in
+
+commit 1375c4efe9b70fc19c6d668058bf773bc478c25c
+Author: Jennifer Nguyen <jennifernguyen@Jennifers-MBP-2.attlocal.net>
+Date:   Thu Nov 19 15:08:52 2020 -0600
+
+    Pipeline error attempted fix
+
+commit 45e822b3439f0e6f58bfa568063dff84a4118737
+Author: Jennifer Nguyen <jennifernguyen@Jennifers-MBP-2.attlocal.net>
+Date:   Thu Nov 19 15:04:35 2020 -0600
+
+    Commit RunDiplomacy.py for pipeline error
+
+commit 1577392aa880b47b67984a89494e52f9241eddc7
+Author: Jennifer Nguyen <jennifernguyen@Jennifers-MBP-2.attlocal.net>
+Date:   Thu Nov 19 15:00:59 2020 -0600
+
+    Wrote solution for diplomacy_solve()
+
+commit 98e96d1cf1b759f6ce1a26ebe6c6be49f2c36a09
+Author: Jennifer Nguyen <jennifernguyen@Jennifers-MBP-2.attlocal.net>
+Date:   Thu Nov 19 14:54:58 2020 -0600
+
+    Commit TestDiplomacy.out with report
+
+commit 5dc55d59f114bf3b1545dad8f107a37edf7fe406
+Author: Jennifer Nguyen <jennifernguyen@Jennifers-MBP-2.attlocal.net>
+Date:   Thu Nov 19 14:52:10 2020 -0600
+
+    Commit TestDiplomacy.py with added unit tests
+
+commit 7ee6cb005f845dd91b180cb03328e5c996806740
+Author: Brionna Huynh <brionnahuynh@gmail.com>
+Date:   Thu Nov 19 20:27:20 2020 +0000
+
+    Update .gitignore for Diplomacy
+
+commit 3ba9d73cb8e71a4902c11f318601ebbf85f34b6d
+Author: Brionna Huynh <brionnahuynh@gmail.com>
+Date:   Thu Nov 19 20:25:56 2020 +0000
+
+    Update .gitlab-ci.yml for Diplomacy
+
+commit cea59aa23028608f8d94707dfb416889002f5edd
+Author: Brionna Huynh <brionnahuynh@gmail.com>
+Date:   Thu Nov 19 20:21:32 2020 +0000
+
+    Delete TestCollatz.py
+
+commit 8834e77e6aee3bbb2ef54731c37c838217899d44
+Author: Brionna Huynh <brionnahuynh@gmail.com>
+Date:   Thu Nov 19 20:21:25 2020 +0000
+
+    Delete TestCollatz.out
+
+commit b8bf1cf7976c4e6b5fcd6b91c5bf6976aa131832
+Author: Brionna Huynh <brionnahuynh@gmail.com>
+Date:   Thu Nov 19 20:21:15 2020 +0000
+
+    Delete Collatz.py
+
+commit 1ecb86a2b89bad01335b1f4d252400a2b8bb3b8c
+Author: Brionna Huynh <brionnahuynh@gmail.com>
+Date:   Thu Nov 19 20:21:05 2020 +0000
+
+    Delete RunCollatz.out
+
+commit 10634ff66ce2865d59877f0d24a26b7083814b97
+Author: Brionna Huynh <brionnahuynh@gmail.com>
+Date:   Thu Nov 19 20:21:00 2020 +0000
+
+    Delete RunCollatz.in
+
+commit 55142270bc170b69672dd843a6fac56d1ac701ce
+Author: Brionna Huynh <brionnahuynh@gmail.com>
+Date:   Thu Nov 19 20:20:48 2020 +0000
+
+    Delete RunCollatz.py
+
+commit 76896648fd62bb8a106a471b37a541801bd07073
+Author: Jennifer Nguyen <jennifernguyen@Jennifers-MBP-2.attlocal.net>
+Date:   Thu Nov 19 14:20:21 2020 -0600
+
+    Add acceptance tests
+
+commit b672766d7d30eeaba277c12fc9669ce2fbdb2da5
+Author: Jennifer Nguyen <jennifernguyen@Jennifers-MBP-2.attlocal.net>
+Date:   Thu Nov 19 14:10:43 2020 -0600
+
+    Update makefile to fit Diplomacy project
+
+commit b343f8b15ea0eced4d6c626c39854553cc753940
+Author: Brionna Huynh <brionnahuynh@gmail.com>
+Date:   Thu Nov 19 20:07:46 2020 +0000
+
+    Update README.md
+
+commit 45a3cbe33c6dfe7a910e989af9ed781ec5abbe33
+Author: Fares Fraij <fares@utexas.edu>
+Date:   Sat Jun 6 10:35:45 2020 -0500
+
+    second commit
+
+commit 0cd09a5c9fb1a857dce11686104ab052d42b269b
+Author: Fares Fraij <fares@utexas.edu>
+Date:   Fri May 29 11:11:36 2020 -0500
+
+    first commit
+
+commit 3390fe29f60392d73e1810e7b55331c613e4a1c5
+Author: Fares Fraij <fares@utexas.edu>
+Date:   Fri May 29 16:02:55 2020 +0000
+
+    Initial commit
