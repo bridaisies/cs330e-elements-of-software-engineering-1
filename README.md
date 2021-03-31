@@ -1,4 +1,4 @@
-# cs330e elements of software engineering 1
+# elements of software engineering 1
 
 brionna huynh\
 email: brionna@utexas.edu\
